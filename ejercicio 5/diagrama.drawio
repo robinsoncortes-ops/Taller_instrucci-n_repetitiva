@@ -1,0 +1,70 @@
+<mxfile host="65bd71144e">
+    <diagram id="su-R0miSs8XOm8uJ6jIf" name="Page-1">
+        <mxGraphModel dx="638" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="11" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="inicio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF6666;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="30" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="c1, c2, c3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#99FFFF;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="capital peddro = c1&lt;div&gt;capitaljuan = c2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="485" y="420" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="485" y="383"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="ca pedro&amp;nbsp;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;ca juan&lt;/div&gt;&lt;div&gt;&amp;gt; c3&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+                    <mxGeometry x="255" y="338" width="110" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="338" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="400" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="10">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="310" y="320" as="targetPoint"/>
+                        <mxPoint x="230" y="520" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="190" y="520"/>
+                            <mxPoint x="190" y="320"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="mes + mes +1&lt;div&gt;capital pedro = * 0.3&lt;/div&gt;&lt;div&gt;capital juan = * o.4&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="490" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;" edge="1" parent="1" source="16" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="mostrar mes =" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#99FFFF;" vertex="1" parent="1">
+                    <mxGeometry x="425" y="420" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+                    <mxGeometry x="447.5" y="520" width="75" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
